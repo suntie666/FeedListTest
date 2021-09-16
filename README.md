@@ -1,2 +1,2 @@
 # FeedListTest
-优化点：额外用一个simpledraweeview来加载动态图，动态setlayout，按item内部九宫格及上下item的顺序进行播放。
+todo优化点：额外用一个simpledraweeview来加载动态图，动态setlayout，按item内部九宫格及上下item的顺序进行播放。
