@@ -20,7 +20,7 @@ public class CustomViewActivity extends AppCompatActivity {
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
         if (hasFocus) {
-            for (int i = 0; i < 100; i++) {
+            for (int i = 0; i <=100; i++) {
                 progressView.setProgress(i,10000);
             }
         }

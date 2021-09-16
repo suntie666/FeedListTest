@@ -150,7 +150,7 @@ public class FeedListActivity extends AppCompatActivity implements IView {
                 if (viewHolder != null) {
                     for (int i = position+1; i <=lastVisiblePosition; i++) {
                         ItemViewHolder tempViewHolder = (ItemViewHolder) recyclerView.findViewHolderForAdapterPosition(i);
-                        if (tempViewHolder instanceof PicViewHolder) {
+                        if (tempViewHolder !=null) {
                             tempViewHolder.stopPlay();
                         }
                     }

@@ -111,7 +111,7 @@ public class CircleProgressView extends View {
             width = min;
             height = min;
         }
-        String text = (mProgress+1) + "%";//百分比
+        String text = mProgress + "%";//百分比
         int textWidth = (int) mTextPaint.measureText(text, 0, text.length());
         mTextPaint.setStyle(Paint.Style.FILL);
         canvas.drawText(text, width / 2 - textWidth / 2, height / 2 + mTextSize / 3, mTextPaint);

@@ -11,6 +11,7 @@ import com.study.feedlist.entity.BaseItemEntity;
 import com.study.feedlist.viewholder.EmptyViewHolder;
 import com.study.feedlist.viewholder.ItemViewHolder;
 import com.study.feedlist.viewholder.PicViewHolder;
+import com.study.feedlist.viewholder.VideoViewHolder;
 import com.study.myapplication.R;
 
 import java.util.ArrayList;
@@ -37,8 +38,7 @@ public class FeedRecyclerAdapter extends RecyclerView.Adapter<ItemViewHolder> {
         if (viewType == BaseItemEntity.PIC_TYPE) {
             holder = new PicViewHolder(inflater.inflate(R.layout.pics_layout, parent, false));
         } else if (viewType == BaseItemEntity.VIDEO_TYPE) {
-            // TODO: 9/16/21
-            holder = new EmptyViewHolder(inflater.inflate(R.layout.empty_layout, parent, false));
+            holder = new VideoViewHolder(inflater.inflate(R.layout.video_layout, parent, false));
         } else {
             holder = new EmptyViewHolder(inflater.inflate(R.layout.empty_layout, parent, false));
         }
