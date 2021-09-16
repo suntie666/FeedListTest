@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressView">
+        <attr name="progressTextSize" format="dimension" />
+        <attr name="backWidth" format="dimension" />    <!--背景圆环宽度-->
+        <attr name="progressWidth" format="dimension" />    <!--进度圆环宽度-->
+        <attr name="backColor" format="color" />        <!--背景圆环颜色-->
+        <attr name="progressColor" format="color" />        <!--进度圆环颜色-->
+        <attr name="progressStartColor" format="color" />   <!--进度圆环开始颜色-->
+        <attr name="progressMidColor" format="color" />   <!--进度圆环开始颜色-->
+        <attr name="progressEndColor" format="color" />   <!--进度圆环结束颜色-->
+        <attr name="progress" format="integer" />       <!--圆环进度-->
+    </declare-styleable>
+</resources>

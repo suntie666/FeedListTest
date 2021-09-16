@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.study.progressview.CustomViewActivity">
+
+    <com.study.progressview.CircleProgressView
+        android:id="@+id/progress_bar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        app:progressTextSize="20dp"
+        app:backColor="@color/grey"
+        app:backWidth="20dp"
+        app:progressWidth="20dp"
+        app:progressColor="@color/teal_200"
+        app:progressStartColor="@color/red"
+        app:progressMidColor="@color/teal_200"
+        app:progressEndColor="@color/green"
+        app:progress="0" />
+
+</RelativeLayout>
