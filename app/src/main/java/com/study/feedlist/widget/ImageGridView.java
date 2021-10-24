@@ -23,7 +23,7 @@ import com.facebook.imagepipeline.request.ImageRequest;
 import com.facebook.imagepipeline.request.ImageRequestBuilder;
 import com.study.feedlist.entity.ImageEntity;
 import com.study.feedlist.interfaces.PlayListener;
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 import java.util.List;
 
 /**

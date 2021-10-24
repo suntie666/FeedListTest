@@ -1,4 +1,4 @@
-package com.study.myapplication;
+package com.study.feedlisttest;
 
 import android.app.Application;
 

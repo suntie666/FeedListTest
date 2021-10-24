@@ -15,7 +15,7 @@ import android.view.animation.LinearInterpolator;
 
 import androidx.annotation.Nullable;
 
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 
 /**
  * Created by HelloWorld on 9/15/21.

@@ -1,0 +1,10 @@
+
+D
+java:S1604"(Make this anonymous inner class a lambda(í‡íÕûÿÿÿÿ
+]
+java:S1128"HRemove this unused import 'com.study.feedlist.viewholder.PicViewHolder'.(’ûµ@
+L
+java:S1659}"1Declare "lastVisiblePosition" on a separate line.(ŞäÌùÿÿÿÿ
+t	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰­êºüÿÿÿÿ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(äº¸ºúÿÿÿÿ

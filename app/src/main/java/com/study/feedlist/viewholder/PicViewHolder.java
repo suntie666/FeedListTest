@@ -9,7 +9,7 @@ import com.study.feedlist.entity.BaseItemEntity;
 import com.study.feedlist.entity.PicEntity;
 import com.study.feedlist.interfaces.PlayListener;
 import com.study.feedlist.widget.ImageGridView;
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 
 /**
  * Created by HelloWorld on 9/14/21.

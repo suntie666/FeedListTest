@@ -3,17 +3,14 @@ package com.study.feedlist.viewholder;
 import android.media.MediaPlayer;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.VideoView;
 
 import androidx.annotation.NonNull;
 
 import com.study.feedlist.entity.BaseItemEntity;
-import com.study.feedlist.entity.PicEntity;
 import com.study.feedlist.entity.VideoEntity;
 import com.study.feedlist.interfaces.PlayListener;
-import com.study.feedlist.widget.ImageGridView;
 import com.study.feedlist.widget.SimpleVideoView;
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 
 /**
  * Created by HelloWorld on 9/16/21.

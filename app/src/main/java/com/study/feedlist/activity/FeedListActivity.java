@@ -17,8 +17,7 @@ import com.study.feedlist.interfaces.IPresenter;
 import com.study.feedlist.interfaces.IView;
 import com.study.feedlist.interfaces.PlayListener;
 import com.study.feedlist.viewholder.ItemViewHolder;
-import com.study.feedlist.viewholder.PicViewHolder;
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 
 import java.util.List;
 

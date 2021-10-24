@@ -1,7 +1,6 @@
 package com.study.feedlist.adapter;
 
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
@@ -12,7 +11,7 @@ import com.study.feedlist.viewholder.EmptyViewHolder;
 import com.study.feedlist.viewholder.ItemViewHolder;
 import com.study.feedlist.viewholder.PicViewHolder;
 import com.study.feedlist.viewholder.VideoViewHolder;
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 
 import java.util.ArrayList;
 import java.util.List;

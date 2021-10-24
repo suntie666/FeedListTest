@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.study.myapplication.R;
+import com.study.feedlisttest.R;
 
 public class CustomViewActivity extends AppCompatActivity {
     CircleProgressView progressView;

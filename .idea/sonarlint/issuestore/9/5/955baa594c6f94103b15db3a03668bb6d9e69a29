@@ -1,0 +1,13 @@
+
+b
+java:S1192:"GDefine a constant instead of duplicating this literal "check1" 8 times.(¬ûŠÿÿÿÿÿ
+>
+java:S1604E"(Make this anonymous inner class a lambda(¶¶’¾
+m
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.( æèßÿÿÿÿÿ
+
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ÂŸõûÿÿÿÿ
+
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä³Æíúÿÿÿÿ
+
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ù€ºöøÿÿÿÿ
